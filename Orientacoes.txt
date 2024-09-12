@@ -1,0 +1,11 @@
+*** LEIA COM ATENÇÃO ****
+   
+Você deverá considerar os campos do Form1 para definir
+as PROPRIEDADES que deverão ser implementadas na classe.
+  
+A propriedade referente a sigla deve aceitar apenas letras e ter no mínimo 5 letras
+ 
+A propriedade referente ao período deve aceitar apenas letras e o conteúdo do atributo deve
+ser armazenado em letras maiúscula. 
+  
+  to upper

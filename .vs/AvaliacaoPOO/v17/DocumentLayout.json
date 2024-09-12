@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DD05-8D0E-4F70-9932-08B23C62942F}|AvaliacaoPOO\\AvaliacaoPOO.csproj|c:\\users\\instrutor\\desktop\\avaliacaopoo\\avaliacaopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817DD05-8D0E-4F70-9932-08B23C62942F}|AvaliacaoPOO\\AvaliacaoPOO.csproj|solutionrelative:avaliacaopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DD05-8D0E-4F70-9932-08B23C62942F}|AvaliacaoPOO\\AvaliacaoPOO.csproj|c:\\users\\instrutor\\desktop\\avaliacaopoo\\avaliacaopoo\\clscurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817DD05-8D0E-4F70-9932-08B23C62942F}|AvaliacaoPOO\\AvaliacaoPOO.csproj|solutionrelative:avaliacaopoo\\clscurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DD05-8D0E-4F70-9932-08B23C62942F}|AvaliacaoPOO\\AvaliacaoPOO.csproj|c:\\users\\instrutor\\desktop\\avaliacaopoo\\avaliacaopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817DD05-8D0E-4F70-9932-08B23C62942F}|AvaliacaoPOO\\AvaliacaoPOO.csproj|solutionrelative:avaliacaopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\Form1.cs",
+              "RelativeDocumentMoniker": "AvaliacaoPOO\\Form1.cs",
+              "ToolTip": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\Form1.cs",
+              "RelativeToolTip": "AvaliacaoPOO\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:15:22.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCurso.cs",
+              "DocumentMoniker": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\clsCurso.cs",
+              "RelativeDocumentMoniker": "AvaliacaoPOO\\clsCurso.cs",
+              "ToolTip": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\clsCurso.cs",
+              "RelativeToolTip": "AvaliacaoPOO\\clsCurso.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:14:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\Form1.cs",
+              "RelativeDocumentMoniker": "AvaliacaoPOO\\Form1.cs",
+              "ToolTip": "C:\\Users\\INSTRUTOR\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\Form1.cs [Design]",
+              "RelativeToolTip": "AvaliacaoPOO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:57:10.778Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
