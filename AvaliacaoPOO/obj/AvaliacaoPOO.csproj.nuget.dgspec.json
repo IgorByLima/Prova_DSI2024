@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\AvaliacaoPOO.csproj": {}
+    "C:\\Desenvovimento\\ProvaPoo\\Prova_DSI2024\\AvaliacaoPOO\\AvaliacaoPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\AvaliacaoPOO.csproj": {
+    "C:\\Desenvovimento\\ProvaPoo\\Prova_DSI2024\\AvaliacaoPOO\\AvaliacaoPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\AvaliacaoPOO.csproj",
+        "projectUniqueName": "C:\\Desenvovimento\\ProvaPoo\\Prova_DSI2024\\AvaliacaoPOO\\AvaliacaoPOO.csproj",
         "projectName": "AvaliacaoPOO",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\AvaliacaoPOO.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\AvaliacaoPOO\\AvaliacaoPOO\\obj\\",
+        "projectPath": "C:\\Desenvovimento\\ProvaPoo\\Prova_DSI2024\\AvaliacaoPOO\\AvaliacaoPOO.csproj",
+        "packagesPath": "C:\\Users\\Igor Lima\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvovimento\\ProvaPoo\\Prova_DSI2024\\AvaliacaoPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -40,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

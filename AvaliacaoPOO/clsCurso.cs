@@ -27,7 +27,7 @@ namespace AvaliacaoPOO
 				if (value.All(char.IsLetter) && (value.Length > 5))
 					Sigla = value;
 
-				else MessageBox.Show("No campo SIGLA informe apenas LETRAS, a sigla deve ter no mínimo 5 caracteres");
+				else throw new ArgumentException ("No campo SIGLA informe apenas LETRAS, a sigla deve ter no mínimo 5 caracteres");
 			    }
 			
 
@@ -51,11 +51,11 @@ namespace AvaliacaoPOO
 
 			set {
 				
-				if (value.All(char.IsLetter))
+				if (value.All(char.IsLetter) && value.Length >0)
 	
 				Periodo = value.ToUpper();
 
-				else MessageBox.Show("No campo PERÍODO digite apenas LETRAS");
+				else throw new FormatException("No campo PERÍODO digite apenas LETRAS");
 
              
 			}
